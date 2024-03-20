@@ -24,8 +24,8 @@ This is a video player application built with React and Redux, using Vite as the
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rohith2613/Live-vedio-add-comments.git
 cd video-player-app
-npm install vite react react-dom @reduxjs/toolkit react-redux
-npm install vite react react-dom @reduxjs/toolkit react-redux
+npm install vite react react-dom @reduxjs/toolkit react-redux react-player
+npm run dev
 
